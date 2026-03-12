@@ -1,4 +1,4 @@
-export const TOKEN = 'MTQ4MTU0Mzg5MDQ0MzE3NDAzMQ.GAJC_p.w3DVrWOcHUa_Peaa7h7aFBfCmz2aaXpPjcbkLM';
+export const TOKEN = '';
 export const RADIO_CHANNEL_ID = '1481542749357347029';
 
 export const SERVER_ID = '1481542748367487139'; 
