@@ -14,10 +14,6 @@ A Discord bot that streams live radio directly into voice channels. Built with D
 
 * The bot will attempt to join the voice channel and begin playing the stream.
 
-**License**
-
-MIT License
-
 **Check Out the Bot Features**
 
 To listen to the radio streaming, along with other features like the live world clock (from another bot), join my Discord server:
