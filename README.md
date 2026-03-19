@@ -19,3 +19,8 @@ A Discord bot that streams live radio directly into voice channels. Built with D
 To listen to the radio streaming, along with other features like the live world clock (from another bot), join my Discord server:
 
 [Discord Bots](https://discord.gg/kwmKBT9Q)
+
+**License**
+
+© 2025 Federico Giuffrida. All rights reserved.
+You may view the code, but copying, modifying, or redistributing without permission is prohibited.
